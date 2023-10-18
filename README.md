@@ -59,8 +59,7 @@ VITE v4.4.9  ready in 240 ms
 ```
 <br>
 
-### Agora, para visualizar a aplicação, basta abrir o link local mostrado acima, no caso do exemplo `http://localhost:5173/`.
-<br>
+<p>Agora, para visualizar a aplicação, basta abrir o link local mostrado acima, no caso do exemplo http://localhost:5173/!</p>
 
 ---
 
