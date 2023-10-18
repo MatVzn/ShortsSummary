@@ -21,8 +21,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
-- Inteligencia artificial
-- Node.js
+- Inteligencia Artificial
+- Node
 - Git e Github
 - Figma
 
